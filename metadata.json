@@ -1,0 +1,6 @@
+{
+  "name": "mikrotik-toolkit",
+  "description": "Enterprise-grade Python & REST/API CLI and Dashboard Toolkit for auditing, provisioning, and securing MikroTik RouterOS v7 hardware and CHR instances.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
