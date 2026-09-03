@@ -10,7 +10,7 @@
 
 ---
 
-## 📐 Enterprise Network Topology & Architecture
+## 📐 Enterprise Network Topology & Architecture:
 
 ```text
                +-------------------------------------------------------------+
